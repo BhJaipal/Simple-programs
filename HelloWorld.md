@@ -3,7 +3,9 @@
 ## Programming Language Name
 
 ```bash
-       # Code goes here
+############################
+#######Code goes here#######
+############################
 ```
 
 `Output`
@@ -22,8 +24,8 @@ print(f"Hello, my name is {name}")
 ## Bash
 
 ```bash
-name = $"Jaipal"
-echo "Hello World\nI am "$name
+$ name = $"Jaipal";
+$ echo "Hello World\nI am "$name;
 ```
 
 ```bash
@@ -153,7 +155,7 @@ echo "Hello World";
 
 ## Scala
 
-```S
+```scala
 object HelloWorld extends App{
     printIn("Hello World");
 }
