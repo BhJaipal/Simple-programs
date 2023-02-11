@@ -3,7 +3,7 @@
 ## Programming Language Name
 
 ```bash
-                    # Code goes here
+       # Code goes here
 ```
 
 `Output`
@@ -277,7 +277,7 @@ print "Hello World";
 
 ## TCL
 
-```t
+```tcl
 puts "Hello World"
 ```
 
