@@ -3,9 +3,9 @@
 ## Programming Language Name
 
 ```bash
-############################
-#######Code goes here#######
-############################
+##############################
+########Code goes here########
+##############################
 ```
 
 `Output`
@@ -138,10 +138,14 @@ Console.log("Hello World");
 ## Javascript
 
 ```javascript
-Console.log("Hello World");
+let name= "Jaipal";
+console.log(`Hello World\nI am ${name}`);
 ```
 
-`Hello World`
+```bash
+Hello World
+I am Jaipal
+```
 
 
 ## PHP
