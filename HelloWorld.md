@@ -166,7 +166,7 @@ object HelloWorld extends App{
 
 ## Matlab
 
-```M
+```matlab
 disp("Hello World");
 ```
 
@@ -222,9 +222,9 @@ end
 _main:
     push message 
     call _printf
-    add      esp, 4
+    add  esp, 4
 message:
-    db "Hello World" 10, 0
+    db   "Hello World" 10, 0
 ```
 
 `Hello World`
