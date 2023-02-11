@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/github/contributors/BhJaipal/Python-Module?color=blue&logo=%20Github&logoColor=%20yellow&style=plastic">
 <img src="https://img.shields.io/github/stars/BhJaipal/Python-Module.svg?style=plastic&label=Star&maxAge=2592000" />
 <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg">
-<img src="https://img.shields.io/badge/Visual_Studio_Code-684?style=for-the-badge&logo=visual%20studio%20code&logoColor=3f3f8f&style=plastic" />
+<img src="https://img.shields.io/badge/Visual_Studio_Code-007acc?style=for-the-badge&logo=visual%20studio%20code&logoColor=3f3f8f&style=plastic" />
 
 </p>
 
