@@ -88,6 +88,7 @@ void main() {
 
 `Hello World`
 
+
 ## C++
 
 ```cpp
@@ -238,6 +239,16 @@ cat("Hello World")
 
 `Hello World`
 
+
+## Rust
+
+```rs
+fn main() {
+    println!("Hello World");
+}
+```
+
+`Hello World`
 
 ## Swift
 
