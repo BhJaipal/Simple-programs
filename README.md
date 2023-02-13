@@ -9,7 +9,7 @@
 [![Python](https://img.shields.io/badge/Python-fff?logo=python)](https://www.python.org/) 
 [![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual%20studio%20code&logoColor=3f3f8f)](https://code.visualstudio.com/) 
 [![GitHub](https://badgen.net/badge/icon/github?icon=github&label&color=black)](https://github.com)
-[![Python](https://img.shields.io/badge/--fff?logo=jupyter)](https://www.python.org)
+[![Jupyter](https://img.shields.io/badge/Jupyter-fff?logo=jupyter)](https://www.python.org)
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
