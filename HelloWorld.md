@@ -110,7 +110,7 @@ Enter your name: Jaipal
 So, Your name is Jaipal
 ```
 
-## C #
+## C#
 
 ```csharp
 using System;
