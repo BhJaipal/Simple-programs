@@ -62,16 +62,15 @@ class Cube{
 };
 
 class Sphere{
-    final double pi= 22/7;
     int rad;
     Sphere(int rad) {
         this.rad = rad;
     }
     public double sphere_sa() {
-        return 4*pi* rad*rad;
+        return 4*Math.PI* rad*rad;
     }
     public double sphere_volume() {
-        return 1.67*pi* Math.pow(rad, 3);
+        return 1.67*Math.PI* Math.pow(rad, 3);
     }
     public void execute() {
         System.out.print("Surface area: ");
@@ -84,19 +83,18 @@ class Sphere{
 class Cylinder{
     int radi;
     int heig;
-    double pi= 22/7;
     Cylinder(int radi, int heig) {
         this.radi= radi;
         this.heig= heig;
     }
     public double cyl_tsa() {
-        return 2*pi*radi* (heig + radi);
+        return 2*Math.PI*radi* (heig + radi);
     }
     public double cyl_csa() {
-        return 2*pi* radi*heig;
+        return 2*Math.PI* radi*heig;
     }
     public double cyl_vol() {
-        return pi* radi*radi*heig;
+        return Math.PI* radi*radi*heig;
     }
     public void execute() {
         System.out.print("Total Surface area: ");
