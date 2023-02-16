@@ -106,7 +106,7 @@ class Cylinder{
     }
 };
 
-class Main{
+public class ThreeD_Shapes_use{
     public static void main_execution() {
         Scanner obj= new Scanner(System.in);
         while (true) {
