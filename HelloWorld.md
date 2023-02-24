@@ -38,7 +38,7 @@ I am Jaipal
 ```
 
 
-### [![Java](https://img.shields.io/badge/--49f?logo=java)](https://java.com/en/) Java
+### [![Java](https://img.shields.io/badge/--49f?logo=openjdk)](https://java.com/en/) Java
 
 ```java
 import java.util.*;
@@ -95,7 +95,7 @@ void main() {
 `Hello World`
 
 
-### C++
+### [![C++](https://img.shields.io/badge/--ff9?logo=cplusplus&logoColor=05f)](https://cplusplus.com/) C++
 
 ```cpp
 # include <iostream>
@@ -117,7 +117,7 @@ So, Your name is Jaipal
 ```
 
 
-### C#
+### [![C#](https://img.shields.io/badge/--fff?logo=csharp&logoColor=70f)](https://learn.microsoft.com/en-us/dotnet/csharp/) C#
 
 ```csharp
 using System;
@@ -133,7 +133,7 @@ namespace Hello{
 `Hello World`
 
 
-### TypeScript
+### [![TypeScript](https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/) TypeScript
 
 ```typescript
 console.log("Hello World");
@@ -142,7 +142,7 @@ console.log("Hello World");
 `Hello World`
 
 
-### Javascript
+### [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/) Javascript
 
 ```javascript
 let name= "Jaipal";
