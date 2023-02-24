@@ -253,7 +253,7 @@ cat("Hello World")
 `Hello World`
 
 
-### [![Rust](https://img.shields.io/badge/--000?logo=rust&logoColor=c88&style=plastic)](https://www.rust-lang.org) Rust
+### [![Rust](https://img.shields.io/badge/--000?logo=rust&logoColor=b66&style=plastic)](https://www.rust-lang.org) Rust
 
 ```rs
 fn main() {
