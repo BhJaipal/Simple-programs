@@ -8,7 +8,13 @@ for c in range (3,0,-2):
     print ("  "*a,"*"*c)
     a+=1
 print ("Difficulty: Simple")
-
+"""
+  *
+ ***
+*****
+ ***
+  *
+"""
 print ()
 
 #Program 2.1
@@ -22,6 +28,13 @@ for i in range (1,j+1):
     print ()
 print ("Difficulty: Simple")
 
+"""
+    1
+   12
+  123
+ 1234
+12345
+"""
 print ()
 
 #Program 2.2
@@ -34,7 +47,13 @@ for l in range (j,0,-1):
     z+=1
     print ()
 print("Difficulty: Simple")
-
+"""
+54321
+ 4321
+  321
+   21
+    1
+"""
 print ()
 
 #Program 3
@@ -46,7 +65,13 @@ for I in range (4,1,-2):
 print ("  "*3," *"*1)
 print ("  "*2," * "*2)
 print ("Difficulty: Normal")
-
+"""
+   *
+* * * *
+  * *
+   *
+  * *
+"""
 print ()
 
 #Program 4
@@ -73,3 +98,17 @@ print ("* "*2,end="   "*4)
 print ("* "*2)
 print ("      " "* ","  "*7,"      *")
 print ("Difficulty: Hard")
+"""
+
+          *
+         * *
+        * * *
+* * * * * * * * * * *
+   * * * * * * * *
+      * * * * *
+       * * * *
+      * * * * *
+     * * *  * * *
+    * *         * *
+   *               *
+"""
