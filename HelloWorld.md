@@ -15,7 +15,7 @@
 
 ## Programming Languages:
 
-### [![Python](https://img.shields.io/badge/--171717?logo=python)](https://www.python.org) Python
+### [![Python](https://img.shields.io/badge/--171717?logo=python)](https://www.python.org&style=plastic) Python
 
 ```python
 name ="Jaipal"
@@ -25,7 +25,7 @@ print(f"Hello, my name is {name}")
 `Hello, my name is Jaipal`
 
 
-### [![Bash](https://img.shields.io/badge/--000?logo=powershell)](https://www.gnu.org) Bash
+### [![Bash](https://img.shields.io/badge/--000?logo=powershell&style=plastic)](https://www.gnu.org) Bash
 
 ```bash
 $ name = $"Jaipal";
@@ -38,7 +38,7 @@ I am Jaipal
 ```
 
 
-### [![Java](https://img.shields.io/badge/--49f?logo=openjdk)](https://java.com/en/) Java
+### [![Java](https://img.shields.io/badge/Java-49f?logo=java&style=plastic)](https://java.com/en/) Java
 
 ```java
 import java.util.*;
@@ -82,7 +82,7 @@ You have selected Sphere
 ```
 
 
-### [![Bash](https://img.shields.io/badge/--000?logo=c)](https://en.m.wikipedia.org/wiki/C_(programming_language)) C
+### [![C](https://img.shields.io/badge/--000?logo=c)](https://www.iso.org/standard/74528.html) C
 
 ```c
 # include <stdio.h>
@@ -95,7 +95,7 @@ void main() {
 `Hello World`
 
 
-### [![C++](https://img.shields.io/badge/--ff9?logo=cplusplus&logoColor=05f)](https://cplusplus.com/) C++
+### [![C++](https://img.shields.io/badge/--ff9?logo=cplusplus&logoColor=05f&style=plastic)](https://cplusplus.com/) C++
 
 ```cpp
 # include <iostream>
@@ -117,7 +117,7 @@ So, Your name is Jaipal
 ```
 
 
-### [![C#](https://img.shields.io/badge/--fff?logo=csharp&logoColor=70f)](https://learn.microsoft.com/en-us/dotnet/csharp/) C#
+### [![C#](https://img.shields.io/badge/--fff?logo=csharp&logoColor=70f&style=plastic)](https://learn.microsoft.com/en-us/dotnet/csharp/) C#
 
 ```csharp
 using System;
@@ -133,7 +133,7 @@ namespace Hello{
 `Hello World`
 
 
-### [![TypeScript](https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/) TypeScript
+### [![TypeScript](https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=ffffff&style=plastic)](https://www.typescriptlang.org/) TypeScript
 
 ```typescript
 console.log("Hello World");
@@ -142,7 +142,7 @@ console.log("Hello World");
 `Hello World`
 
 
-### [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/) Javascript
+### [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000&style=plastic)](https://www.javascript.com/) Javascript
 
 ```javascript
 let name= "Jaipal";
@@ -155,7 +155,7 @@ I am Jaipal
 ```
 
 
-### PHP
+### [![PHP](https://img.shields.io/badge/--fff?logo=php&logoColor=000&style=plastic)](https://www.php.net) PHP
 
 ```php
 <?php
@@ -206,7 +206,7 @@ main() {
 `Hello World`
 
 
-### Ruby
+### [![Ruby](https://img.shields.io/badge/--fff?logo=ruby&logoColor=a00&style=plastic)](https://www.ruby-lang.org) Ruby
 
 ```ruby
 puts "Hello World";
@@ -227,7 +227,7 @@ end
 `Hello World`
 
 
-### Assembly
+### [![Assembly](https://img.shields.io/badge/ASM-fff?style=plastic)](https://en.m.wikipedia.org/wiki/Assembly_language) Assembly
 
 ```asm
     global _main
@@ -244,7 +244,7 @@ message:
 `Hello World`
 
 
-### R
+### [![R](https://img.shields.io/badge/--000?logo=r&style=plastic)](https://www.r-project.org) R
 
 ```r
 cat("Hello World")
@@ -253,7 +253,7 @@ cat("Hello World")
 `Hello World`
 
 
-### Rust
+### [![Rust](https://img.shields.io/badge/--000?logo=rust&logoColor=c88&style=plastic)](https://www.rust-lang.org) Rust
 
 ```rs
 fn main() {
@@ -264,7 +264,7 @@ fn main() {
 `Hello World`
 
 
-### Swift
+### [![Swift](https://img.shields.io/badge/--000?logo=swift&logoColor=fff&style=plastic)](https://www.swift.org) Swift
 
 ```swift
 println("Hello World");
@@ -273,7 +273,7 @@ println("Hello World");
 `Hello World`
 
 
-### Kotlin
+### [![Kotlin](https://img.shields.io/badge/--FFF?logo=kotlin&style=plastic)](https://www.kotlinlang.org) Kotlin
 
 ```kotlin
 fun main(args: Array<String>) {
