@@ -15,7 +15,7 @@
 
 ## Programming Languages:
 
-### Python
+### [![Python](https://img.shields.io/badge/--171717?logo=python)](https://www.python.org) Python
 
 ```python
 name ="Jaipal"
@@ -25,7 +25,7 @@ print(f"Hello, my name is {name}")
 `Hello, my name is Jaipal`
 
 
-### Bash
+### [![Bash](https://img.shields.io/badge/--000?logo=powershell)](https://www.gnu.org) Bash
 
 ```bash
 $ name = $"Jaipal";
@@ -38,7 +38,7 @@ I am Jaipal
 ```
 
 
-### Java
+### [![Java](https://img.shields.io/badge/--49f?logo=java)](https://java.com/en/) Java
 
 ```java
 import java.util.*;
@@ -82,7 +82,7 @@ You have selected Sphere
 ```
 
 
-### C
+### [![Bash](https://img.shields.io/badge/--000?logo=c)](https://en.m.wikipedia.org/wiki/C_(programming_language)) C
 
 ```c
 # include <stdio.h>
