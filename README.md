@@ -2,11 +2,11 @@
 
 <p align="center"> 
  <a href="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BhJaipal&layout=compact&langs_count=16&theme=dark&background=black"> 
-   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BhJaipal&layout=compact&langs_count=16&background=black&theme=dark" style="margin-left:10px"/> 
+   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BhJaipal&layout=compact&langs_count=16&background=black&theme=react" style="margin-left:10px"/> 
   </a> 
  </p>
 
-[![Python](https://img.shields.io/badge/Python-fff?logo=python)](https://www.python.org/) 
+[![Python](https://img.shields.io/badge/Python-06a?logo=python&logoColor=F7DF1E)](https://www.python.org/) 
 [![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual%20studio%20code&logoColor=3f3f8f)](https://code.visualstudio.com/) 
 [![GitHub](https://badgen.net/badge/icon/github?icon=github&label&color=black)](https://github.com)
 [![Jupyter](https://img.shields.io/badge/Jupyter-fff?logo=jupyter)](https://www.python.org)
