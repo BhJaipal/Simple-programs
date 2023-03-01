@@ -24,7 +24,7 @@ print(f"Hello, my name is {name}")
 
 `Hello, my name is Jaipal`
 
-
+  
 ### [![Bash](https://img.shields.io/badge/--000?logo=powershell&style=plastic)](https://www.gnu.org) Bash
 
 ```bash
@@ -142,7 +142,7 @@ console.log("Hello World");
 `Hello World`
 
 
-### [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000&style=plastic)](https://www.javascript.com/) Javascript
+### <img alt="JavaScript" src="https://linkpicture.com/q/javascript_1.svg" width=20 /> Javascript
 
 ```javascript
 let name= "Jaipal";
@@ -155,7 +155,7 @@ I am Jaipal
 ```
 
 
-### [![PHP](https://img.shields.io/badge/--fff?logo=php&logoColor=000&style=plastic)](https://www.php.net) PHP
+### <img alt="PHP" src="https://linkpicture.com/q/php.svg" width=20 /> PHP
 
 ```php
 <?php
@@ -206,7 +206,7 @@ main() {
 `Hello World`
 
 
-### [![Ruby](https://img.shields.io/badge/--fff?logo=ruby&logoColor=a00&style=plastic)](https://www.ruby-lang.org) Ruby
+### <img alt="Ruby" src="https://linkpicture.com/q/ruby_1.png" width=20 /> Ruby
 
 ```ruby
 puts "Hello World";
@@ -253,7 +253,7 @@ cat("Hello World")
 `Hello World`
 
 
-### [![Rust](https://img.shields.io/badge/--000?logo=rust&logoColor=b66&style=plastic)](https://www.rust-lang.org) Rust
+### <img alt="Rust" src="https://linkpicture.com/q/rust.svg" width=20 /> Rust
 
 ```rs
 fn main() {
@@ -264,7 +264,7 @@ fn main() {
 `Hello World`
 
 
-### [![Swift](https://img.shields.io/badge/--000?logo=swift&logoColor=fff&style=plastic)](https://www.swift.org) Swift
+### <img alt="C#" src="https://linkpicture.com/q/swift_1.png" width=20 /> Swift
 
 ```swift
 println("Hello World");
@@ -273,7 +273,7 @@ println("Hello World");
 `Hello World`
 
 
-### [![Kotlin](https://img.shields.io/badge/--FFF?logo=kotlin&style=plastic)](https://www.kotlinlang.org) Kotlin
+### <img alt="C#" src="https://linkpicture.com/q/kotlin.svg" width=20 /> Kotlin
 
 ```kotlin
 fun main(args: Array<String>) {
@@ -313,7 +313,7 @@ puts "Hello World"
 
 ## Non Programming Languages:
 
-### HTML
+### <img alt="HTML" src="https://linkpicture.com/q/html.svg" width=20 /> HTML
 
 ```html
 <!DOCTYPE html>
@@ -330,7 +330,7 @@ puts "Hello World"
 `Hello World`
 
 
-### CSS
+### <img alt="C#" src="https://linkpicture.com/q/css.svg" width=20 /> CSS
 
 ```css
 .div:hover{
