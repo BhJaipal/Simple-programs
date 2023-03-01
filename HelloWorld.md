@@ -15,7 +15,7 @@
 
 ## Programming Languages:
 
-### [![Python](https://img.shields.io/badge/--171717?logo=python)](https://www.python.org&style=plastic) Python
+### <img alt="Python" src="https://linkpicture.com/q/python_1.svg" width=20 /> Python
 
 ```python
 name ="Jaipal"
@@ -38,7 +38,7 @@ I am Jaipal
 ```
 
 
-### [![Java](https://img.shields.io/badge/Java-49f?logo=java&style=plastic)](https://java.com/en/) Java
+### <img alt="Java" src="https://linkpicture.com/q/java_1.svg" width=20 /> Java
 
 ```java
 import java.util.*;
@@ -82,7 +82,7 @@ You have selected Sphere
 ```
 
 
-### [![C](https://img.shields.io/badge/--000?logo=c)](https://www.iso.org/standard/74528.html) C
+### <img alt="C#" src="https://linkpicture.com/q/c_1.svg" width=20 /> C
 
 ```c
 # include <stdio.h>
@@ -95,7 +95,7 @@ void main() {
 `Hello World`
 
 
-### [![C++](https://img.shields.io/badge/--ff9?logo=cplusplus&logoColor=05f&style=plastic)](https://cplusplus.com/) C++
+### <img alt="C++" src="https://linkpicture.com/q/c_44.png" width=20 /> C++
 
 ```cpp
 # include <iostream>
@@ -117,7 +117,7 @@ So, Your name is Jaipal
 ```
 
 
-### [![C#](https://img.shields.io/badge/--fff?logo=csharp&logoColor=70f&style=plastic)](https://learn.microsoft.com/en-us/dotnet/csharp/) C#
+### <img alt="C#" src="https://linkpicture.com/q/csharp.svg" width=20 /> C#
 
 ```csharp
 using System;
