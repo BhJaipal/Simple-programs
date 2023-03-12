@@ -155,6 +155,28 @@ I am Jaipal
 ```
 
 
+### <img alt="ReactJS" src="https://linkpicture.com/q/react.png" width=20 /> ReactJS 
+
+```jsx
+function Divs({values}) {
+    return(
+    <div className="Div">
+    {values}
+    </div>
+    );
+}
+function Hello() {
+    return (
+    <div>
+        <Divs values="Hello World" />
+    </div>
+    );
+}
+```
+
+`Hello World`
+
+
 ### <img alt="PHP" src="https://linkpicture.com/q/php.svg" width=20 /> PHP
 
 ```php
