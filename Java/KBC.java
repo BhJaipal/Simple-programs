@@ -57,7 +57,8 @@ public class KBC{
                 System.out.println("Game terminates here, you have won ₹"+ Reward[i-1] + " till now");
                 break; 
             }
-            System.out.println("Thank you for playing with us");
+        }
+        System.out.println("Thank you for playing with us");
         scan.close();
     }
 }
