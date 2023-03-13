@@ -30,39 +30,34 @@ public class KBC{
             "A", "C", "B", "D", "A", "A", "D"
         };
         Scanner scan = new Scanner(System.in);
-        boolean ans= true;
-        while (ans) {
-            for (int i= 0; i<7; i++) {
-                System.out.println(QuestionNo[i] + " prasna/question, for ₹" + Reward[i]);
-                System.out.println(Questions[i]);
-                System.out.println();
-                System.out.println(Option[i][0]);
-                System.out.println(Option[i][1]);
-                System.out.println(Option[i][2]);
-                System.out.println(Option[i][3]);
-                System.out.println("E. Exit");
-                System.out.print("Enter your option in Upper case: ");
-                String userChoice= scan.nextLine();
-                System.out.println();
-                if (userChoice.equals("E")) {
-                    System.out.println("Player wants to exit");
-                    System.out.println("You have won ₹"+ Reward[i-1] + " till now");
-                    System.out.println("Answer of present question is " + correctOption[i]);
-                    break;
-                }
-                else if (userChoice.equals(correctOption[i])) {
-                    System.out.println("You Option is correct");
-                    System.out.println("You won ₹"+ Reward[i]);
-                }
-                else {
-                    System.out.println("Oh, you got it wrong");
-                    System.out.println("Game terminates here, you have won ₹"+ Reward[i-1] + " till now");
-                    break; 
-                }
+        for (int i= 0; i<7; i++) {
+            System.out.println(QuestionNo[i] + " prasna/question, for ₹" + Reward[i]);
+            System.out.println(Questions[i]);
+            System.out.println();
+            System.out.println(Option[i][0]);
+            System.out.println(Option[i][1]);
+            System.out.println(Option[i][2]);
+            System.out.println(Option[i][3]);
+            System.out.println("E. Exit");
+            System.out.print("Enter your option in Upper case: ");
+            String userChoice= scan.nextLine();
+            System.out.println();
+            if (userChoice.equals("E")) {
+                System.out.println("Player wants to exit");
+                System.out.println("You have won ₹"+ Reward[i-1] + " till now");
+                System.out.println("Answer of present question is " + correctOption[i]);
+                break;
+            }
+            else if (userChoice.equals(correctOption[i])) {
+                System.out.println("You Option is correct");
+                System.out.println("You won ₹"+ Reward[i]);
+            }
+            else {
+                System.out.println("Oh, you got it wrong");
+                System.out.println("Game terminates here, you have won ₹"+ Reward[i-1] + " till now");
+                break; 
             }
             System.out.println("Thank you for playing with us");
-            break;
-        }
         scan.close();
     }
 }
