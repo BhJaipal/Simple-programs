@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class PrimeNumber{
     public static void main(String[] args) {
+        System.out.print("Enter limit: ");
         primeNums(new Scanner(System.in).nextInt());
     }
     static void primeNums(int num) {
