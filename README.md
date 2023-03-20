@@ -10,6 +10,7 @@
 [![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual%20studio%20code&logoColor=3f3f8f)](https://code.visualstudio.com/) 
 [![GitHub](https://badgen.net/badge/icon/github?icon=github&label&color=black)](https://github.com)
 [![Java](https://img.shields.io/badge/JDK-007AAC?logo=openjdk&logoColor=12B889)](https://java.com)
+![C#](https://img.shields.io/badge/C_Sharp-007ACC?logo=csharp&logoColor=3F3F8F)
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
