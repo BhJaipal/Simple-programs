@@ -1,0 +1,5 @@
+# Compiled class file
+bin/Java/*.class
+
+# Compiled executable file
+bin/C\#/*.exe
