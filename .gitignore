@@ -1,14 +1,9 @@
+
 .git
 .github
-Java/Shapes/Sphere.class
-Java/Shapes/Cylinder.class
-Java/Shapes/Cuboid.class
-Java/Shapes/Cube.class
-Java/Shapes/ShapeExec.class
-Java/Shapes/ThreeD.class
-Java/Shapes/newSphere.class 
-Java/Shapes/newCylinder.class 
-Java/Shapes/newCuboid.class
-Java/Shapes/newCube.class 
-C#/PrimeNumber.exe
-Java/PrimeNumbers.java
+
+# Compiled class file
+bin/Java/*.class
+
+# Compiled executable file
+bin/C\#/*.exe
